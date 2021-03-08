@@ -10,5 +10,4 @@
 
 ## Stats 📊
 <img src="https://gpvc.arturio.dev/Otaku-First" align="center" />
-<img src="https://github-readme-stats.vercel.app/api?username=Otaku-First&show_icons=true&count_private=true&theme=material-palenight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaku-First&layout=compact&theme=material-palenight">
+<img src="https://github-readme-stats.vercel.app/api?username=Otaku-First&show_icons=true&count_private=true&theme=material-palenight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaku-First&layout=compact&theme=material-palenight">

@@ -9,10 +9,6 @@
 - <a href="mailto:otakufirstua@gmail.com">📩 E-mail: `otakufirstua@gmail.com`</a>
 
 ## Stats 📊
-<img src="https://gpvc.arturio.dev/Otaku-First" align="center" />
-<img src="https://github-readme-stats.vercel.app/api?username=Otaku-First&show_icons=true&count_private=true&theme=material-palenight">
-
-
 <a href="http://www.github.com/Otaku-First">
   <img src="https://github-readme-stats.vercel.app/api?username=Otaku-First&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Otaku-First's GitHub stats" />
 </a>
